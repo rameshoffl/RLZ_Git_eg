@@ -1,0 +1,6 @@
+public class Code{
+
+public static void main(){
+
+System.out.println("this is code file by java");
+}}
